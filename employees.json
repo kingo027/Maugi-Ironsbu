@@ -1,0 +1,100 @@
+{
+    "employees":[
+        {
+            "name":"Aman Patel",
+            "title":"Advisor",
+            "department":"vice president of marketing",
+            "bio":"Aman Patel is vice president of marketing and sales for Sleep Well Hotels. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better. " 
+        },
+        {
+            "name":"Virat Kohli",
+            "title":"Senior Advisor",
+            "department":"Marketing",
+            "bio":"He is vice president of marketing and sales for Sleep Well Hotels. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Rohit Sharma",
+            "title":"Advisor",
+            "department":"Marketing",
+            "bio":"He is vice president of marketing and sales for Sleep Well Hotels. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Rishbh Pant",
+            "title":"Team Lead",
+            "department":"Marketing",
+            "bio":"He is vice president of marketing and sales for Sleep Well Hotels. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Shikhar Dhavan",
+            "title":"Team Lead",
+            "department":"HR",
+            "bio":"He is HR for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Hardik Pandya",
+            "title":"Senior Recruiter",
+            "department":"HR",
+            "bio":"He is HR for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Shreyash Ayar",
+            "title":"Talent Scout",
+            "department":"HR",
+            "bio":"He is HR for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Amit Mishra",
+            "title":"Team Lead",
+            "department":"Production",
+            "bio":"He is Prodiction Manager for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Pravin Kumar",
+            "title":"Advisor",
+            "department":"Production",
+            "bio":"He is Prodiction Manager for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Chahal Thakor",
+            "title":"Advisor",
+            "department":"Production",
+            "bio":"He is Prodiction Manager for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Kuldip Yadav",
+            "title":"Junior Developer",
+            "department":"Development",
+            "bio":"He is Developer for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Bhuvneshvar Kumar",
+            "title":"Senior Developer",
+            "department":"",
+            "bio":"He is Developer for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Jaspreet Bumrah",
+            "title":"Team Lead",
+            "department":"Development",
+            "bio":"He is Developer for Sleep Royal Tehnology. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Harbhajan Sing",
+            "title":"Product Processor",
+            "department":"Warehouse",
+            "bio":"He is Warehouse Manager in Maugi Electorics. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"Yuvraj Sing",
+            "title":"Product Processor",
+            "department":"Warehouse",
+            "bio":"He is Warehouse Manager in Maugi Electorics. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        },
+        {
+            "name":"K.L.Rahul",
+            "title":"Product Processor",
+            "department":"Warehouse",
+            "bio":"He is Warehouse Manager in Maugi Electorics. he directs all marketing and sales strategies, overseeing the growing hotel chains loyalty program, consumer and field marketing activities, advertising, public relations and e-commerce. Writing a professional bio that captures your brand and what you offer to your audience can help you grow better." 
+        }
+    ]
+}
